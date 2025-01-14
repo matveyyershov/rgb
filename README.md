@@ -1,1 +1,1 @@
-# rgb
+# rgb slider
